@@ -69,10 +69,10 @@ const Main = React.createClass({
           actions={standardActions}
           onRequestClose={this._handleRequestClose}
         >
-          1-2-3-4-5
+          fran
         </Dialog>
-        <h1>material-ui</h1>
-        <h2>example project</h2>
+        <h1>Brenda and Van</h1>
+        <h2>photos project</h2>
         <RaisedButton label="Super Secret Password" primary={true} onTouchTap={this._handleTouchTap} />
       </div>
     );
